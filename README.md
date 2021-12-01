@@ -1,1 +1,1 @@
-# Renkli-G-r-nt-Restorasyonu
+# rgb image restoration
